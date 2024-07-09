@@ -7,7 +7,9 @@
 - edit the menu bar
   - show battery percentage in the menu bar
   - hide spotlight search
-- turn off hot corners
+- hot corners:
+  -bottom left: show desktop
+  -bottom right: quick note
 - system preferences -> view -> in alphabetical order
 - edit widgets, remove all except screen usage and calendar
 - bluetooth > show in menu bar
@@ -43,21 +45,16 @@
 
 ## Apps
 ### Core
-- Chat: Discord
-- Browser: Brave
-- Editors: vscode and vscodium (for hotkey switching between these), one is for notes one is for code
+- Browsers: Librewolf, Floorp
+- Editors: Vscodium
 - Input format: osprette mx keyboard + vim keybindings (qwerty pleb but looking at hands down layout)
-- Terminal: wezterm + zellij
-- navigation: raycast
+- Terminal: wezterm + zellij + Alacritty (haven't decided yet)
 - music: spotify
-- meetings: zoom, discord
 - docker: docker desktop
 
-## Configure Brave
+## Configure Floorp
 
-- Set the search engine to Google
-- Customize new tab page
-- Turn off "offer to save passwords" and "auto sign in"
+- Disable disk cache
 - Import bookmarks
 
 ## Setup VS code
