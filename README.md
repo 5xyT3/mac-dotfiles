@@ -3,8 +3,8 @@
 ## General settings
 
 - general -> dark mode
-- trackpad -> tap to click, increase tracking speed, turn off force click
-- edit the menu bar
+- trackpad -> tap to click, increase tracking speed
+- edit the menu bar(control center)
   - show battery percentage in the menu bar
   - hide spotlight search
 - hot corners:
@@ -19,12 +19,13 @@
 
 ## Finder preferences
 
-- general -> change default finder window
+- general -> change default finder window -> home folder
 - sidebar
   - turn off recents
   - turn off recent tags
   - turn off icloud drive
   - turn on home folder
+  - turn on pictures
 - advanced
   - show all filename extensions
 - view
@@ -35,13 +36,11 @@
 
 - battery -> show percentage
 - now playing -> don't show in menu bar
-- hide zoom from menu bar
 
 ## Keyboard shortcuts
 
 - remove "omw" from text
 - shortcuts > launchpad & dock > toggle "dock hiding on/off" in shortcuts -> launchpad & dock
-- uses raycast for windows and hotkeys
 
 ## Apps
 ### Core
@@ -51,6 +50,7 @@
 - Terminal: wezterm + zellij + Alacritty (haven't decided yet)
 - music: spotify
 - docker: docker desktop
+- notes: obsidian
 
 ## Configure Floorp
 
