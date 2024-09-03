@@ -16,6 +16,8 @@
 - remove unnecessary apps including downloads, but leave system preferences
 - enable automatically hide and show dock
 - disable "show recent applications in Dock"
+- Appearance:
+  - Click on the scroll bar to jump to the spot that is clicked
 
 ## Finder preferences
 
@@ -23,7 +25,6 @@
 - sidebar
   - turn off recents
   - turn off recent tags
-  - turn off icloud drive
   - turn on home folder
   - turn on pictures
 - advanced
@@ -45,8 +46,7 @@
 ## Apps
 ### Core
 - Browsers: Librewolf, Floorp
-- Editors: Vscodium
-- Input format: osprette mx keyboard + vim keybindings (qwerty pleb but looking at hands down layout)
+- Editors: Vscodium, Zed
 - Terminal: wezterm + zellij + Alacritty (haven't decided yet)
 - music: spotify
 - docker: docker desktop
